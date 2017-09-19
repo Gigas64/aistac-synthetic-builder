@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="5" archiveYwd="0" groupKey="-2" created="1505470900438" modified="1505470900438" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Location" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="CS_ID" />
+      <headers header="EMAIL_ADDRESS_AVAILABLE" />
+      <headers header="HOME_PHONE_AVAILABLE" />
+      <headers header="MOBILE_PHONE_AVAILABLE" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

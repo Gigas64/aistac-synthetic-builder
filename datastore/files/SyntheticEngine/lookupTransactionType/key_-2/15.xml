@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.lookups.TransactionTypeBean">
+  <ObjectBean identifier="15" archiveYwd="0" groupKey="-2" created="1505684200960" modified="1505684200960" owner="LookupService" serialVersionUID="20100713103" />
+  <TransactionTypeBean typeId="35" typeName="Conversion In" serialVersionUID="921789625604632902" />
+</Oathouse>

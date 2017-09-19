@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="1" archiveYwd="0" groupKey="-2" created="1505471236998" modified="1505471236998" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Account" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="ANNUAL_PREMIUM_AMT" />
+      <headers header="CS_ID" />
+      <headers header="D_ACCO_ID" />
+      <headers header="DD_FIRST_CONTRIB_DATE" />
+      <headers header="DD_NXT_CONTRIB_DATE" />
+      <headers header="JOINT_PRODUCT_IND" />
+      <headers header="LAST_LMP_SUM_AMT" />
+      <headers header="LAST_LMP_SUM_DATE" />
+      <headers header="OPEN_FUNDS" />
+      <headers header="PROD_DESC" />
+      <headers header="SERV_AGENT_MNEMONIC" />
+      <headers header="SRC_OF_BUS" />
+      <headers header="STAFF_TERMS_APPLIED" />
+      <headers header="STATUS" />
+      <headers header="VAL" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

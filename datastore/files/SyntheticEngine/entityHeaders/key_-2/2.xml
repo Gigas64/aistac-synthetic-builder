@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="2" archiveYwd="0" groupKey="-2" created="1505470900401" modified="1505470900401" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Contribution" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="CS_ID" />
+      <headers header="FIRST_CONTRIB_DATE" />
+      <headers header="FUTURE_DD_PYMT" />
+      <headers header="PEP_LIMIT_EXCEEDED_DATE" />
+      <headers header="REM_ALLNCE" />
+      <headers header="TAX_YEAR_END_DATE" />
+      <headers header="TAX_YEAR_START_DATE" />
+      <headers header="TOTAL_CASH_CONTRIB" />
+      <headers header="TOTAL_EQTY_CONTRIB" />
+      <headers header="TOTAL_GROSS_CONTRIB" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

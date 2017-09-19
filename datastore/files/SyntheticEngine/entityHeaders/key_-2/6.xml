@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="6" archiveYwd="0" groupKey="-2" created="1505470900438" modified="1505470900438" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Suppression" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="CS_ID" />
+      <headers header="SUB_TYP" />
+      <headers header="TYP" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

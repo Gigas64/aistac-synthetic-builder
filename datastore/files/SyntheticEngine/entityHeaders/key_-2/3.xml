@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="3" archiveYwd="0" groupKey="-2" created="1505470900416" modified="1505470900416" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Customer" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="ANNUAL_ISA_AMT" />
+      <headers header="ANNUAL_OEIC_AMT" />
+      <headers header="CHANNEL" />
+      <headers header="CS_ID" />
+      <headers header="CLIENT_STATUS" />
+      <headers header="CLIENT_TYPE" />
+      <headers header="CREATION_DATE" />
+      <headers header="AGE" />
+      <headers header="DECEASED_IND" />
+      <headers header="EMAILABLE_IND" />
+      <headers header="GENDER" />
+      <headers header="LAST_LMP_SUM_DATE" />
+      <headers header="LATEST_TRAN_SRC_BUS" />
+      <headers header="MAILABLE_IND" />
+      <headers header="MARITAL_STATUS" />
+      <headers header="MYACCOUNT_LAST_LOGIN" />
+      <headers header="MYACCOUNT_STATUS" />
+      <headers header="NBR_ACCTS" />
+      <headers header="NBR_FUND_HOLDINGS" />
+      <headers header="NBR_FUND_TYPES" />
+      <headers header="NBR_ISA_ACCTS" />
+      <headers header="NBR_ISA_FUND_TYPES" />
+      <headers header="NBR_LMP_OEIC_ACCTS" />
+      <headers header="NBR_LMP_OEIC_FUND_TYPES" />
+      <headers header="NBR_OEIC_ACCTS" />
+      <headers header="NBR_OEIC_FUND_TYPES" />
+      <headers header="NBR_PEP_ACCTS" />
+      <headers header="NBR_PEP_FUND_TYPES" />
+      <headers header="NBR_PRODUCTS" />
+      <headers header="NBR_REG_OEIC_ACCTS" />
+      <headers header="NBR_REG_OEIC_FUND_TYPES" />
+      <headers header="OVERSEAS_RESIDENT_IND" />
+      <headers header="PAF_POSTAL_SECTOR" />
+      <headers header="PHONEABLE_IND" />
+      <headers header="STAFF_TERMS_IND" />
+      <headers header="START_DATE" />
+      <headers header="TOT_ACCT_VAL" />
+      <headers header="TOT_ISA_VAL" />
+      <headers header="TOT_LMP_OEIC_VAL" />
+      <headers header="TOT_PEP_VAL" />
+      <headers header="TOT_REG_OEIC_VAL" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="4" archiveYwd="0" groupKey="-2" created="1505470900433" modified="1505470900433" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="FundHolding" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="D_FUHO_ACCO_ID" />
+      <headers header="D_FUHO_ID" />
+      <headers header="FUTY_DESC" />
+      <headers header="ISIN" />
+      <headers header="M&amp;G_FUND_MNUEMONIC" />
+      <headers header="MNEMONIC" />
+      <headers header="PAY_FREQ_DESC" />
+      <headers header="REG_PREMIUM_AMT" />
+      <headers header="REINVEST_DIVI_IND" />
+      <headers header="SHORT_NAME" />
+      <headers header="STRT_DATE" />
+      <headers header="TOT_SET_UNITS" />
+      <headers header="TOTAL_CONTRIBUTIONS" />
+      <headers header="VAL" />
+      <headers header="VAPO_DATE" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

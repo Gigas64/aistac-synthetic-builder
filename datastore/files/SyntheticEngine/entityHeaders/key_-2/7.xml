@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.workers.OutputHeadersBean">
+  <ObjectBean identifier="7" archiveYwd="0" groupKey="-2" created="1505470900438" modified="1505470900438" owner="System" serialVersionUID="20100713103" />
+  <OutputHeadersBean name="Transaction" serialVersionUID="4164032795056886067">
+    <headers_set>
+      <headers header="CANCEL_IND" />
+      <headers header="CASH_GROSS_AMT" />
+      <headers header="CS_ID" />
+      <headers header="D_TRAN_FUHO_ID" />
+      <headers header="D_TRAN_ID" />
+      <headers header="FUND_MNEMONIC" />
+      <headers header="FUND_NAME" />
+      <headers header="FUND_SHORT_NAME" />
+      <headers header="FUTY_DESC" />
+      <headers header="NET_MVMNT_AMT" />
+      <headers header="NET_MVMNT_UNITS" />
+      <headers header="PROACTIVE_DD_AMT" />
+      <headers header="PROACTIVE_DD_IND" />
+      <headers header="SRC_OF_BUS" />
+      <headers header="TRAN_DTE" />
+      <headers header="TYPE_DESC" />
+      <headers header="TYPE_ORIG_DESC" />
+    </headers_set>
+  </OutputHeadersBean>
+</Oathouse>

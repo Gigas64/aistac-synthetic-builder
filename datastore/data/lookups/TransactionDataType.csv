@@ -1,0 +1,20 @@
+1,Sale
+2,Repurchase
+5,Switch In
+6,Switch Out
+7,Stock Transfer In
+8,Stock Transfer Out
+10,Investment
+11,RSF Sales
+13,Merger In
+14,Merger Out
+18,RIF Withdrawal
+26,Transfer In
+27,Transfer Out
+32,Tax Credit Investment
+34,Conversion Out
+35,Conversion In
+36,Interest Payment
+38,Re-Registration In
+39,Re-Registration Out
+41,AMC Rebate Reinvestment

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Oathouse class="com.cognitivescale.synthetic.mandg.data.lookups.PostcodeBean">
+  <ObjectBean identifier="6183" archiveYwd="0" groupKey="-2" created="1505476236428" modified="1505476236428" owner="LookupService" serialVersionUID="20100713103" />
+  <PostcodeBean postcode="PE8 6" population="8276" households="3196" serialVersionUID="4024433402295183793" />
+</Oathouse>
